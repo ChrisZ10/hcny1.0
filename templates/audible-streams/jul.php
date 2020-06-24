@@ -1,0 +1,33 @@
+<ul class="collapse-content">
+	<li><a id="streams_0701" class="play_link">路加福音1章45節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0702" class="play_link">箴言4章12節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0703" class="play_link">以賽亞書28章24節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0704" class="play_link">哈巴谷書2章3節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0705" class="play_link">何西阿書2章14-15節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0706" class="play_link">歷代志下20章12節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0707" class="play_link">以賽亞書49章2節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0708" class="play_link">以賽亞書40章31節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0709" class="play_link">以賽亞書48章10節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0710" class="play_link">雅歌5章6節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0711" class="play_link">列王記17章7節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0712" class="play_link">約伯記23章10節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0713" class="play_link">羅馬書4章17節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0714" class="play_link">詩篇118篇27節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0715" class="play_link">約翰一書5章4節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0716" class="play_link">創世記22章16-18節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0717" class="play_link">以賽亞書18章4節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0718" class="play_link">歷代志下16章9節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0719" class="play_link">約翰福音18章11節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0720" class="play_link">希伯來書4章14、16節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0721" class="play_link">士師記6章39節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0722" class="play_link">以賽亞書30章18節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0723" class="play_link">以弗所書5章20節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0724" class="play_link">詩篇106篇12-15節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0725" class="play_link">約翰福音13章7節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0726" class="play_link">加拉太書5章5節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0727" class="play_link">瑪拉基書3章10節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0728" class="play_link">那鴻書1章3節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0729" class="play_link">約伯記38章22-23節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0730" class="play_link">馬太福音10章42節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0731" class="play_link">詩篇78篇2節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+</ul>

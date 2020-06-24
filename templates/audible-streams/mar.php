@@ -1,0 +1,33 @@
+<ul class="collapse-content">
+	<li><a id="streams_0301" class="play_link">傳道書7章13節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0302" class="play_link">出埃及記34章2-3節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0303" class="play_link">馬可福音9章26節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0304" class="play_link">希伯來書6章12節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0305" class="play_link">希伯來書3章14節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0306" class="play_link">路加福音24章21節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0307" class="play_link">哥林多後書7章5節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0308" class="play_link">歷代志上17章23-24節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0309" class="play_link">雅歌4章8節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0310" class="play_link">希伯來書10章38節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0311" class="play_link">約書亞記1章1-2節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0312" class="play_link">出埃及記10章13、16、19節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0313" class="play_link">啟示錄15章3節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0314" class="play_link">出埃及記20章21節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0315" class="play_link">以賽亞書41章14-15節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0316" class="play_link">希伯來書12章10節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0317" class="play_link">馬太福音2章13節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0318" class="play_link">馬可福音15章5節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0319" class="play_link">彼得前書4章12-13節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0320" class="play_link">哥林多後書6章10節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0321" class="play_link">馬太福音9章29節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0322" class="play_link">使徒行傳7章30、31、34節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0323" class="play_link">歷代志上26章27節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0324" class="play_link">創世記32章9-11節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0325" class="play_link">希伯來書11章6節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0326" class="play_link">創世記13章14-15節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0327" class="play_link">羅馬書8章18節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0328" class="play_link">約書亞記3章13節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0329" class="play_link">馬太福音6章28節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0330" class="play_link">以賽亞書50章11節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+	<li><a id="streams_0331" class="play_link">馬太福音14章24節<span class="icon"><i class="far fa-play-circle"></i></span></a></li>
+</ul>
