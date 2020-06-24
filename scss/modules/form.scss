@@ -1,0 +1,51 @@
+@import '../base/variables';
+
+#ride-form {
+	label {
+		font-weight: normal;
+		color: $orange;
+	}
+
+	h1 {
+		margin-top: 30px;
+		color: $orange;
+	}
+
+	h3 {
+		margin-top: 30px;
+		color: $orange;
+	}
+
+	.help {
+		color: $orange;
+	}
+
+	input {
+		border-radius: 0;
+	}
+	select {
+		color: lightgray;
+		border-radius: 0;
+	}
+
+	option {
+		color: $orange;
+	}
+
+	button {
+		background-color: $orange;
+		color: $white;
+		border-radius: 0;
+	}
+
+	.field.add {
+		margin-top: 30px;
+	}
+	.field.delete {
+		margin-bottom: 30px;
+	}
+
+	#form_control {
+		margin-top: 50px;
+	}
+}

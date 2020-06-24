@@ -1,0 +1,56 @@
+@import '../base/variables';
+
+#offering-banner {
+	background-image: url('../assets/images/offering.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	.container {
+		display: flex;
+		img {
+			margin: auto;
+		}
+	}
+	.subtitle {
+		color: $white;
+	}
+}
+
+#offering-text {
+	.subtitle {
+		color: $orange;
+		text-align: justify;
+	}
+	.columns {
+		.column {
+			min-height: 300px;
+			margin: 10px;
+			border: 1px solid $orange;
+			.subtitle {
+				background-color: $orange;
+				color: $white;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			p {
+				color: $orange;
+				padding: 10px;
+				text-align: justify;
+				strong {
+					color: $orange;
+				}
+				a {
+					color: $darkorange;
+					font-weight: bold;
+				}
+			}
+			.image {
+				padding: 10px;
+				margin-bottom: 20px;
+			}
+			.offering_btn:hover {
+				background-color: $white;
+			}
+		}
+	}
+}

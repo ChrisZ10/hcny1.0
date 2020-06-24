@@ -1,0 +1,43 @@
+@import '../base/variables';
+@import '../base/baseline';
+
+#about-us-banner {
+	background-image: url('../assets/images/vineyard.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	.container {
+		display: flex;
+		img {
+			margin: auto;
+		}
+	}
+	// .title {
+	// 	text-align: center;
+	// 	color: $white;
+	// }
+}
+
+#about-us-text {
+	.title {
+		color: $orange;
+	}
+	p {
+		color: $darkorange;
+		margin-bottom: 30px;
+		text-align: justify;
+	}
+	.subtitle, strong {
+		color: $darkorange;
+	}
+	.columns {
+		margin-bottom: 30px;
+		.column.is-one-fifth {
+			figure {
+				@include mobile {
+					width: 60%;
+				}			
+			}
+		}
+	}		
+}

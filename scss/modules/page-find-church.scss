@@ -1,0 +1,131 @@
+@import '../base/baseline';
+@import '../base/variables';
+
+#find-church-banner {
+	background-image: url('../assets/images/worship_lg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	.container {
+		display: flex;
+		img {
+			margin: auto;
+		}
+	}
+}
+
+#find-church-content {
+	padding-bottom: 0;
+	.container {
+		.subtitle {
+			color: $orange;
+			text-align: justify;
+			@include mobile {
+				font-size: 18px !important;
+			}
+		}
+		.form {
+			padding: 20px;
+			background-color: $white;
+			.field {
+				.field-label {
+					.label {
+						color: $orange;
+						font-weight: 500 !important;
+					}
+				}
+				.field-body {
+					.input, .button {
+						border-radius: 0;
+					}
+					.select {
+						margin-right: 10px;
+						select {
+							border-radius: 0;
+						}
+					}
+					.button {
+						background-color: $orange;
+					}
+					.radio {
+						color: $orange;
+						input {
+							margin-right: 5px;
+						}
+					}
+					.help {
+						color: $orange;
+
+						a {
+							color: $darkorange;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+#church-results {
+	padding-top: 15px;
+	.container {
+		min-height: 200px;
+		background-color: $white;
+		padding: 20px;
+		p {
+			margin-bottom: 5px;
+			padding: 5px;
+			color: $orange;
+			strong {
+				color: $orange;
+			}
+			a {
+				color: $orange;
+				text-decoration: underline;
+			}
+		}
+		p.single-church {
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
+		p.single-church:hover {
+			background-color: #f0e6d3;
+		}
+		hr {
+			margin-top: 3px;
+			margin-bottom: 3px;
+			height: 1px;
+			background-color: $orange;
+		}
+	}
+}
+
+#btt-button {
+	display: none;
+  	position: fixed;
+  	bottom: 150px;
+  	right: 150px;
+  	z-index: 100;
+
+  	@include mobile {
+  		bottom: 50px;
+  		right: 50px;
+  	}
+
+  	@include tablet {
+  		bottom: 100px;
+  		right: 100px;
+  	}
+
+  	span {
+  		color: $orange;
+  	}
+}
+
+#btt-button:hover {
+
+	span {
+		color: $darkorange;
+	}
+
+}

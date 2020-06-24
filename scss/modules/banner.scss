@@ -1,0 +1,65 @@
+@import '../base/variables';
+
+#home-banner {
+	background-image: url('../assets/images/harvest.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	.container {
+		display: flex;
+		.flex-item {
+			margin: auto;
+			.buttons {
+				display: flex;
+				.field {
+					margin: auto;
+					a {
+						background: transparent;
+						color: $white;
+						border: 3px solid $white;
+						margin-right: 5px;
+						border-radius: 0;
+					}
+					a:hover {
+						background-color: $white;
+						color: $orange;
+					}
+				}
+			}
+		}
+	}
+}
+
+#carpool-banner {
+	background-image: url('../assets/images/road.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	.container {
+		display: flex;
+		.flex-item {
+			margin: auto;
+			.buttons {
+				display: flex;
+				.field {
+					margin: auto;
+					a {
+						background: transparent;
+						color: $white;
+						border: 3px solid $white;
+						border-radius: 0;
+						padding: 5px 10px 5px 10px !important;
+						font-weight: bold;
+					}
+					a.first {
+						margin-right: 20px;
+					}
+					a:hover {
+						background-color: $white;
+						color: $orange;
+					}
+				}
+			}
+		}
+	}
+}

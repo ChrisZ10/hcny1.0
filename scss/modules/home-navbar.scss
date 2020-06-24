@@ -1,0 +1,62 @@
+@import '../base/variables';
+
+#home-navbar {
+	background-color: $orange;
+	a {
+		color: $white;
+		padding-left: 5px;
+	}
+	a.user {
+		color: $brown;
+	}
+	a.logo {
+		margin-right: 5px;
+		margin-left: 5px;
+	}
+	span.navbar-item {
+		color: $white;
+		cursor: pointer;
+	}
+	a:hover {
+		color: yellow;
+	}
+	#ecbolc {
+		span {
+			margin-right: 5px;
+		}
+	}
+	#ecbolc:hover {
+		color: yellow;
+	}
+	.navbar-menu.is-active {
+		background-color: $orange;
+	}
+	.navbar-item:hover {
+		background-color: $orange;
+	}
+	.navbar-item.acct {
+		color: gold;
+	}
+	.navbar-item.acct:hover {
+		color: yellow;
+	}
+	.navbar-item.is-selected {
+		color: $darkorange;
+	}
+}
+
+#weixin {
+	.card-content {
+		text-align: center;
+		background-color: $orange;
+		color: $white;
+	}
+	.card-image {
+		padding: 30px;
+		display: flex;
+		.image {
+			width: 150px;
+			margin: auto;
+		}
+	}
+}

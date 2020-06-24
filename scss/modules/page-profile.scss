@@ -1,0 +1,44 @@
+@import '../base/variables';
+
+#profile-banner {
+	background-image: url('../assets/images/lamb.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	.container {
+		display: flex;
+		img {
+			margin: auto;
+		}
+	}
+	// .title {
+	// 	text-align: center;
+	// 	color: $white;
+	// }
+}
+
+#profile-content {
+	.title {
+		color: $orange;
+	}
+	.label {
+		color: $orange;
+	}
+	.control {
+		width: 200px;
+		input {
+			border-radius: 0;
+			color: $orange;
+		}
+		a {
+			border: 1px solid lightgray;
+			border-radius: 0;
+			background-color: transparent;
+			color: $orange;
+		}
+		a:hover {
+			background-color: $orange;
+			color: $white;
+		}
+	}
+}

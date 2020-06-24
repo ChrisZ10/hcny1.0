@@ -1,0 +1,17 @@
+@import '../base/variables';
+
+#login {
+	h1 {
+		a {
+			background-image: url('../assets/images/logo.png');
+		}
+	}
+	#wp-submit {
+		border-radius: 0;
+		background-color: $orange;
+		color: $white;
+		border: none;
+		box-shadow: none;
+		text-shadow: none;
+	}
+}

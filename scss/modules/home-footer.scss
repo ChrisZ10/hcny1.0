@@ -1,0 +1,23 @@
+@import '../base/variables';
+
+#footer {
+	background-color: $darkorange;
+	padding: 0;
+	a {
+		color: $white;
+	}
+	.container {
+		color: $white;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.container.is-fluid {
+		margin: 0;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-color: $orange;
+		a {
+			color: $white;
+		}
+	}
+}

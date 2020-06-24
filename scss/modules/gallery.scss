@@ -1,0 +1,188 @@
+@import '../base/baseline';
+@import '../base/variables';
+
+#single-gallery {
+
+	.title {
+		color: $orange;
+	}
+
+	.btn {
+		margin-top: 15px;
+		margin-bottom: 30px;
+		
+		a {
+			background-color: $orange;
+			color: $white;
+			padding: 5px;
+		}
+		
+		a:hover {
+			background-color: $white;
+			color: $orange;
+		}				
+	
+	}
+
+	/* clearfix */
+	.grid:after {
+  		content: '';
+  		display: block;
+  		clear: both;
+	}
+
+	.grid-sizer {
+		width: 30%;
+		
+		@include mobile {
+			width: 90%;
+		}
+		
+		@include tablet {
+			width: 45%;
+		}
+	}
+
+	.grid-item {
+		float: left;
+  		width: 30%;
+  		border: 10px white solid;
+  		transition: transform 0.5s ease-in-out;
+
+  		@include mobile {
+  			width: 90%;
+  		}
+
+  		@include tablet {
+  			width: 45%;
+  		}
+
+  		.image:after {
+  			content: '';
+  			position: absolute;
+  			top: 0;
+  			right: 0;
+  			bottom: 0;
+  			left: 0;
+  			z-index: 99;
+  		}
+
+	}
+
+	.grid-item:hover {
+		transform: scale(1.01);
+		cursor: pointer;
+	}
+
+	.grid-item-lg {
+		width: 60%;
+
+		@include mobile {
+  			width: 90%;
+  		}
+
+  		@include tablet {
+  			width: 90%;
+  		}
+
+	}
+
+	#photo {
+
+		.modal-content {
+			width: 60%;
+
+			@include mobile {
+				width: 100%;
+			}
+
+			.image:after {
+	  			content: '';
+	  			position: absolute;
+	  			top: 0;
+	  			right: 0;
+	  			bottom: 0;
+	  			left: 0;
+	  			z-index: 99;
+	  		}
+
+		}
+
+	}
+	
+} // single-gallery ends
+
+// archive gallery
+#gallery-banner {
+	background-image: url('../assets/images/photowall.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	.container {
+		display: flex;
+		
+		img {
+			margin: auto;
+		}
+
+	}
+	
+}
+
+#archive-gallery {
+	margin-top: 50px;
+}
+
+.single-archive-gallery {
+	margin-bottom: 40px;
+	
+	.image {
+		max-width: 300px;
+		display: inline-block;
+		margin-right: 20px;
+	}
+
+	.content {
+		display: inline-block;
+		vertical-align: top;
+		
+		h3 {
+			color: $orange;
+			margin-bottom: 10px;
+		}
+		
+		p {
+			color: $orange;
+			margin-bottom: 5px;
+		}
+		
+		.btn {
+			margin-top: 15px;
+			
+			a {
+				background-color: $orange;
+				color: $white;
+				padding: 5px;
+			}
+			
+			a:hover {
+				background-color: $white;
+				color: $orange;
+			}
+
+		}
+
+	}
+	
+}
+
+.column.album {
+	.content {
+		.name {
+			color: $white;
+			background-color: $orange;
+			padding: 5px;
+		}
+	}
+}

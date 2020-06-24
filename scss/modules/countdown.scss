@@ -1,0 +1,8 @@
+@import '../base/variables';
+
+#countdown {
+	background-color: $white;
+	p, span {
+		color: $orange;
+	}
+}

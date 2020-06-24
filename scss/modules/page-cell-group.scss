@@ -1,0 +1,89 @@
+@import '../base/variables';
+@import '../base/baseline';
+
+#cell-group-banner {
+	background-image: url('../assets/images/cells.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	.container {
+		display: flex;
+		img {
+			margin: auto;
+		}
+	}
+	.subtitle {
+		color: $white;
+	}
+}
+
+#cell-group-text {
+	.subtitle {
+		color: $orange;
+		text-align: justify;
+		@include mobile {
+			font-size: 18px !important;
+		}
+	}
+	.container {
+		.tabs {
+			li {
+				a {
+					color: $orange;
+				} 
+			}
+			li.is-active {
+				border-bottom: 4px solid $orange;
+			}
+		}
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+			min-height: 200px;
+			.card {
+				margin-right: 20px;
+				margin-bottom: 20px;
+				width: 200px;
+				.card-header {
+					background-color: $orange;
+					p {
+						color: $white;
+					}
+				}
+				.card-content {
+					p, a {
+						color: $orange;
+					}
+					span {
+						margin-right: 7px;
+					}
+				}
+			}
+		}
+	}
+}
+
+#online-cell {
+	.subtitle {
+		color: $orange;
+		text-align: justify;
+	}
+	table {
+		thead {
+			th {
+				background-color: $orange;
+				color: $white;
+				line-height: 150%;
+			}
+		}
+		tbody {
+			td {
+				color: $orange;
+			}
+			td:hover {
+				background-color: $orange;
+				color: $white;
+			}
+		}		
+	}
+}

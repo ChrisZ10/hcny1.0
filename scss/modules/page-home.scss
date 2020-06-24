@@ -1,0 +1,330 @@
+@import '../base/variables';
+@import '../base/baseline';
+
+#schedule {
+	background-color: $orange;
+	p, strong {
+		color: $white;
+	}
+	.level {
+		.level-item {
+			.level {
+				.level-item {
+					margin-left: 5px;
+					margin-right: 5px;
+				}
+			}
+		}
+	}
+	.schedule-box {
+		border: 3px solid $white;
+		padding: 10px;
+	}
+	.schedule-box:hover {
+		background-color: $white;
+		p, strong {
+			color: $orange;
+			cursor: pointer;
+		}
+	}
+}
+
+#watch {
+	background-color: $white;
+
+	.title {
+		color: $orange;
+	}
+
+	.subtitle {
+		color: $orange;
+		margin-top: 10px;
+		padding: 5px;
+		font-weight: bold;
+		margin-bottom: 5px;
+	}
+
+	.inner.subtitle {
+		margin-top: 0;
+		margin-bottom: 5px;
+
+		@include mobile {
+			margin-top: 10px;
+		}
+
+	}
+
+	.outer.desc {
+		padding-left: 5px;
+		color: $orange;
+	}
+
+	.inner.desc {
+		padding-left: 5px;
+		color: $orange;
+
+		@include mobile {
+			margin-bottom: 20px;
+		}
+		
+	}
+
+	.columns.outer {
+		
+		.column.outer {
+			margin-right: 10px;
+
+			@include mobile {
+				margin-right: 0px;
+			}
+
+			.columns.inner {
+
+				.column.inner {
+					padding-bottom: 8px;
+
+					@include mobile {
+						padding-bottom: 0;
+					}
+
+				}
+
+				.column.inner.description {
+					@include mobile {
+						padding-top: 0;
+						padding-bottom: 8px;
+					}
+				}
+
+			}
+
+		}
+
+	}
+
+	.video-loader {
+		cursor: pointer;
+	}
+
+	.button {
+		margin-top: 15px;
+		border-radius: 0;
+		background-color: $orange;
+		color: $white;
+	}
+
+	.button:hover {
+		background-color: $darkorange;
+	}
+
+	.modal-content {
+		
+		.video-container {
+			position: relative;
+			background-color: $white;
+			height: 0;
+			padding-left: 0;
+			padding-right: 0;
+			padding-bottom: 56.25%;
+			display: flex;
+
+			.loading {
+				margin: auto;
+				padding-top: 20%;
+			}
+
+			iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				right: 0;
+				width: 100%;
+				height: 100%;
+			}
+
+		}
+	}
+
+}
+
+#map {
+	padding: 0;
+	.container {
+		margin-left: 0;
+		margin-right: 0;
+		height: 400px;
+		iframe {
+			height: 100%;
+		}
+	}
+}
+
+#transportation {
+	background-color: $orange;
+	.title {
+		color: $white;
+	}
+	.hr {
+		background-color: $white;
+	}
+	p {
+		color: $white;
+		margin-bottom: 20px;
+		span {
+			color: $white;
+		}
+		a {
+			color: $lightorange;
+		}
+	}
+	table {
+		background: transparent;
+		border: 3px solid $white;
+		tr {
+			th, td {
+				color: $white;
+				border: 1px solid $white;
+			}
+		}
+		tr:nth-child(even) {
+			background-color: $darkorange;
+		}
+		thead {
+			tr {
+				background-color: $darkorange;
+			}
+		}		
+	}
+}
+
+#events {
+	background-color: $white;
+	.hr {
+		margin-bottom: 10px;
+	}
+	h1 {
+		color: $orange;
+		margin-bottom: 10px;
+	}
+	p {
+		color: $orange;
+		margin-bottom: 20px;
+	}
+	.btn {
+		margin-top: 15px;
+		margin-bottom: 30px;
+		a {
+			background-color: $orange;
+			color: $white;
+			padding: 5px;
+		}
+		a:hover {
+			background-color: $darkorange;
+			color: $white;
+		}				
+	}
+}
+
+#messages {
+	background-color: $orange;
+	.hr {
+		background-color: $white;
+		margin-bottom: 10px;
+	}
+	h1 {
+		color: $white;
+		margin-bottom: 10px;
+	}
+	p {
+		color: $white;
+		margin-bottom: 20px;
+		a {
+			color: $white;
+		}
+	}
+	.btn {
+		margin-top: 15px;
+		margin-bottom: 30px;
+		a {
+			background-color: $white;
+			color: $orange;
+			padding: 5px;
+		}
+		a:hover {
+			background-color: $darkorange;
+			color: $white;
+		}				
+	}
+}
+
+#audible-showroom {
+	//background-image: url('../assets/images/audio_light.jpg');
+	//background-repeat: no-repeat;
+	//background-size: cover;
+	//background-position: center;
+	background-color: $white;
+	display: flex;
+	.container {
+		margin: auto;
+		h1 {
+			color: $orange;
+			text-align: center;
+			cursor: pointer;
+			span {
+				margin-right: 10px;
+				cursor: pointer;
+			}
+		}
+		p {
+			color: $orange;
+			text-align: justify;
+		}
+		.buttons {
+			margin-top: 20px;
+			display: flex;
+			justify-content: center;
+			.select-box {
+				background-color: $orange;
+				color: $white;
+				padding: 10px;
+				margin: 10px;
+				cursor: pointer;
+			}
+		}
+	}
+}
+
+#photowall {
+	position: relative;
+	height: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 25%; // 4:1
+	background-image: url('../assets/images/photowall.jpg');
+	background-size: contain;
+	background-position: center;
+
+	@include mobile {
+		padding-bottom: 33.33%; // 3:1
+	}
+	
+	@include tablet {
+		padding-bottom: 33.33%; // 3:1
+	}
+
+	.button {
+		height: 50px;
+		width: 100px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin-top: -25px;
+		margin-left: -50px;
+		color: $white;
+		background-color: transparent;
+		border: none;
+		font-weight: bold;
+	}
+
+}

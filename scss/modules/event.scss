@@ -1,0 +1,94 @@
+@import '../base/variables';
+
+#archive-event {
+	h1 {
+		color: $orange;
+	}
+}
+
+.single-archive-event {
+	margin-bottom: 40px;
+	.image {
+		max-width: 300px;
+		display: inline-block;
+		margin-right: 20px;
+	}
+	.content {
+		display: inline-block;
+		vertical-align: top;
+		h3 {
+			color: $orange;
+			margin-bottom: 10px;
+		}
+		p {
+			color: $orange;
+			margin-bottom: 5px;
+		}
+		.btn {
+			margin-top: 15px;
+			a {
+				background-color: $orange;
+				color: $white;
+				padding: 5px;
+			}
+			a:hover {
+				background-color: $white;
+				color: $orange;
+			}				
+		}
+	}
+}
+
+.single-home-event {
+	.image {
+		max-width: 300px;
+		margin-bottom: 10px;
+	}
+	p {
+		margin-bottom: 5px !important;
+		a {
+			color: $orange;
+		}
+		a:hover {
+			color: $darkorange;
+		}
+	}
+}
+
+#single-event {
+	h1, h3, p {
+		color: $orange;
+	}
+	h3 span {
+		color: $white;
+		background-color: $orange;
+		padding: 2px 5px;
+	}
+	.image {
+		max-width: 400px;
+		margin-bottom: 20px;
+	}
+	h3 {
+		margin-bottom: 10px;
+	}
+	p {
+		margin-bottom: 20px;
+	}
+	.acf-map {
+		height: 300px;
+		margin-bottom: 20px;
+	}
+	.btn {
+		margin-top: 15px;
+		margin-bottom: 30px;
+		a {
+			background-color: $orange;
+			color: $white;
+			padding: 5px;
+		}
+		a:hover {
+			background-color: $white;
+			color: $orange;
+		}				
+	}
+}

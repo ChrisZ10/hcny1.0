@@ -1,0 +1,61 @@
+@import '../base/variables';
+@import '../base/baseline';
+
+#category-devotion {
+	min-height: 800px;
+
+	.top.button {
+		border-radius: 0px;
+		background-color: $orange;
+		color: $white;
+		margin-bottom: 10px;
+	}
+
+	.title {
+		color: $orange;
+	}
+}
+
+#single-category-devotion {
+	display: inline-block;
+	width: 200px;
+	margin: 20px;
+
+	@include mobile {
+		margin: 10px;
+	}
+
+	.card-image {
+		@include mobile {
+			display: none !important;
+		}
+	}
+
+	.card-content {
+		padding: 10px;
+		background-color: $orange;
+
+		.card-title {
+			color: $white;
+		}
+	}
+
+}
+
+#single-category-devotion:hover {
+	cursor: pointer;
+}
+
+#single-devotion-page {
+
+	.title {
+		color: $orange;
+	}
+
+	.top.button {
+		border-radius: 0px;
+		background-color: $orange;
+		color: $white;
+		margin-bottom: 10px;
+	}
+}

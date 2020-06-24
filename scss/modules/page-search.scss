@@ -1,0 +1,19 @@
+@import '../base/variables';
+
+#search {
+	#search-bar {
+		.control {
+			.input {
+				border-radius: 0;
+			}
+			.button {
+				border-radius: 0;
+				background-color: $orange;
+			}
+		}
+	}
+	#search-results {
+		min-height: 650px;
+		background-color: lightgray;
+	}
+}
