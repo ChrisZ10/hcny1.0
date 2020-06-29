@@ -82,11 +82,6 @@
 
 				.column.inner {
 					padding-bottom: 8px;
-
-					@include mobile {
-						padding-bottom: 0;
-					}
-
 				}
 
 				.column.inner.description {

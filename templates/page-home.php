@@ -47,14 +47,14 @@
 			<div class="outer column">
 				
 				<!-- sunday sermon video -->
-				<img class="video-loader" data-youtube-id="wBL6oWbuosE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200621.jpg'; ?>">
+				<img class="video-loader" data-youtube-id="AjCa7XLDfmo" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200628.jpg'; ?>">
 
 				<!-- description -->
 				<p class="subtitle">
-					被遺忘的父親 | 鄭立新牧師 | 6月21日	
+					為美國呼求 為美國禱告 | 蕭慕道牧師 | 6月28日
 				</p>
 				<p class="desc outer is-size-6-desktop is-size-7-touch">
-					在現今的社會中，很多家庭缺少父親的角色，因此受到破壞。在父親節主日裡，讓我們通過審視耶穌在地上的父親，約瑟，重新認識漸漸被人遺忘的父親的角色和重要性。
+					<!-- description -->
 				</p>
 
 			</div> <!-- left column ends -->
@@ -70,18 +70,16 @@
 						<div class="inner column">
 							
 							<!-- previous sunday sermon video -->							
-							<img class="video-loader" data-youtube-id="K83lxVkc4A4" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200614.jpg'; ?>">
+							<img class="video-loader" data-youtube-id="wBL6oWbuosE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200621.jpg'; ?>">
 
 						</div>
 
 						<!-- first row inner right column -->
 						<div class="inner column description">
-							<p class="inner subtitle">							
-								一粒麥子的比喻 | 蕭慕道牧師 | 6月14日
-							</p>
-							<p class="desc inner is-size-6-desktop is-size-7-touch">								
-								“一粒麥子若不落在地裡死了，仍舊是一粒；如果死了，就結出許多果實來”。我們的人生是做麥子還是種子？讓我們通過認識耶穌關於麥子的比喻找到答案。
-							</p>
+							
+							<!-- highlight video -->							
+							<img class="video-loader" data-youtube-id="Zk_FkxVZ868" src="<?php echo get_template_directory_uri() . '/assets/images/testimony_zeng.jpg'; ?>">
+							
 						</div>
 
 					</div>
@@ -94,7 +92,7 @@
 						<!-- second row inner left column -->
 						<div class="inner column">
 							
-							<!-- series -->
+							<!-- highlight series 1 -->
 							<a href="https://www.youtube.com/watch?v=ZpqpjPwiWYk&list=PL3BMsMGanxj35g6txKt8g1h7PMu5yBvfc" target="_blank">
 								<img src="<?php echo get_template_directory_uri() . '/assets/images/core_value.jpg'; ?>">
 							</a>
@@ -103,18 +101,18 @@
 
 						<!-- second row inner right column -->
 						<div class="inner column description">
-							<p class="inner subtitle">
-								教會核心價值系列信息
-							</p>
-							<p class="desc inner is-size-6-desktop is-size-7-touch">
-								作為紐約豐收靈糧堂大家庭的一員，你是否了解教會的七個核心價值？聽一聽包括蕭慕道牧師和潘道純牧師在內的教會的各位牧者是如何圍繞這些核心價值進行闡述的。
-							</p>
+							
+							<!-- highlight series 2 -->
+							<a href="https://www.youtube.com/watch?v=6SXQPh8uXvY&list=PL3BMsMGanxj2pQNp9nwPgmddratX6eGuF" target="_blank">
+								<img src="<?php echo get_template_directory_uri() . '/assets/images/psalm_review.jpg'; ?>">
+							</a>
+
 						</div>
 
 					</div>	
 				</div>
 
-				<a class="button" href="https://www.youtube.com/watch?v=XdQxUHPGDck&list=PL3BMsMGanxj0nepGkOXqgHW-GVlYkW89b" target="_blank">查看更多主日信息</a>				
+				<a class="button" href="https://www.youtube.com/watch?v=XdQxUHPGDck&list=PL3BMsMGanxj0nepGkOXqgHW-GVlYkW89b" target="_blank">查看更多精彩視頻</a>				
 
 			</div> <!-- right column ends -->
 

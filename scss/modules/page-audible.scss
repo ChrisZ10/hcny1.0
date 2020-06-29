@@ -197,7 +197,7 @@
 				width: 60%;
 			}
 			
-			.subtitle {
+			h3 {
 				color: $white;
 				margin: auto;
 			}
@@ -205,7 +205,7 @@
 		}
 		.subtitle_box:hover {
 			background-color: $white;
-			.subtitle {
+			h3 {
 				color: $orange;
 			}
 		}
