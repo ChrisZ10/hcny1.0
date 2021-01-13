@@ -61,7 +61,7 @@ get_header();
 		
 		// display today's daily devotion content
 		date_default_timezone_set('America/New_York');
-		$today = date('Ymd');
+		$today = mktime(0, 0, 0, date('m'), date('d'), date('Y', strtotime('2020-01-01')));
 		
 		// echo $today;
 		
