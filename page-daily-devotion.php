@@ -58,7 +58,8 @@ get_template_part('templates/home', 'navbar');
 		// display today's daily devotion content
 		date_default_timezone_set('America/New_York');
 		$today = mktime(0, 0, 0, date('m'), date('d'), date('Y', strtotime('2020-01-01')));
-		
+		$today = date('Ymd', $today);
+
 		$posts = new WP_Query(array(
 			'category_name' => 'devotion',
 			'meta_query' => array(
