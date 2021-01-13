@@ -47,11 +47,11 @@
 			<div class="outer column">
 				
 				<!-- sunday sermon video -->
-				<img class="video-loader" data-youtube-id="AjCa7XLDfmo" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200628.jpg'; ?>">
+				<img class="video-loader" data-youtube-id="0YwMaw-0hUE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210110.jpg'; ?>">
 
 				<!-- description -->
 				<p class="subtitle">
-					為美國呼求 為美國禱告 | 蕭慕道牧師 | 6月28日
+					衝破攔阻 逆流而上（二） | 蕭慕道牧師 | 1月10日
 				</p>
 				<p class="desc outer is-size-6-desktop is-size-7-touch">
 					<!-- description -->
@@ -70,7 +70,7 @@
 						<div class="inner column">
 							
 							<!-- previous sunday sermon video -->							
-							<img class="video-loader" data-youtube-id="wBL6oWbuosE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20200621.jpg'; ?>">
+							<img class="video-loader" data-youtube-id="dCkCETbrS0w" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210103.jpg'; ?>">
 
 						</div>
 
@@ -78,7 +78,7 @@
 						<div class="inner column description">
 							
 							<!-- highlight video -->							
-							<img class="video-loader" data-youtube-id="Zk_FkxVZ868" src="<?php echo get_template_directory_uri() . '/assets/images/testimony_zeng.jpg'; ?>">
+							<img class="video-loader" data-youtube-id="dvFzIWW3GuI" src="<?php echo get_template_directory_uri() . '/assets/images/biblecopy.jpg'; ?>">
 							
 						</div>
 

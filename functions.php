@@ -97,11 +97,12 @@ function generate_date_card($args) {
 	echo '<li class="button" '; 
 	
 	// valid: 3/25 - 3/26 (function detecting which day has daily devotion associated)
-	if ($args['day'] < 84 || $args['day'] > index_today()) {
-		echo 'disabled>';
-	} else {
-		echo '>';
-	}
+	// if ($args['day'] < 84 || $args['day'] > index_today()) {
+	// 	echo 'disabled>';
+	// } else {
+	// 	echo '>';
+	// }
+	echo '>';
 		
 	$month = $date->format('m');
 	$day = $date->format('d');
@@ -388,6 +389,10 @@ function remove_trash() {
 
 }
 
+function add_cors_http_header() {
+    header("Access-Control-Allow-Origin: *");
+}
+
 // life hooks
 add_action('wp_enqueue_scripts', 'add_files'); 
 add_action('after_setup_theme', 'add_features');
@@ -400,6 +405,7 @@ add_action('wp_ajax_find_post', 'find_post');
 add_action('wp_ajax_nopriv_find_post', 'find_post');
 add_action('after_setup_theme', 'check_domain');
 add_action('wp', 'remove_trash');
+add_action('init','add_cors_http_header');
 
 // filter hooks
 add_filter('login_headerurl', 'headerurl');

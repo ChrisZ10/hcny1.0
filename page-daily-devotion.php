@@ -24,6 +24,7 @@ get_template_part('templates/home', 'navbar');
       		<button id="back-to-current" class="top button">
 				今日靈修
 			</button>
+			<a href="<?php echo get_category_link(get_cat_ID('devotion')); ?>" class = 'top button'>查看全部</a>
       	</div>
 
 		<div class="scrollbar">

@@ -56,6 +56,13 @@ get_template_part('templates/home', 'navbar');
 				'tel' => '347-528-4768'
 			)); ?>
 			<?php generate_cell_group_card(array(
+				'title' => '福杯滿溢小組',
+				'day' => '週二',
+				'time' => '06:00PM',
+				'leader' => '佘潔聲姐妹',
+				'tel' => '917-400-5919'
+			)); ?>
+			<?php generate_cell_group_card(array(
 				'title' => '恩雨小組',
 				'day' => '週二',
 				'time' => '06:30PM',
@@ -219,72 +226,6 @@ get_template_part('templates/home', 'navbar');
 				'tel' => '917-689-6943'
 			)); ?>
 		</div>
-	</div>
-</section>
-
-<section id="online-cell" class="section">
-	<div class="container">
-		<h3 class="subtitle">
-			在疫情蔓延的非常時期，教會決定在中文堂新成立16個網路細胞小組。希望目前沒有加入小組的弟兄姐妹和朋友踴躍參加小組，找到一個屬靈的“小家”，使教會在非常時期成為保護的方舟，成為屬靈的遮蓋。
-		</h3>
-		<div class="hr"></div>
-		<table class="table is-fullwidth is-hoverable">
-			<thead>
-				<tr>
-					<th>新成立的16個網路小組組長名單</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>曾二郎牧師：929-300-8971</td>
-				</tr>
-				<tr>
-					<td>楊重芬傳道 ：917-687-3128</td>
-				</tr>
-				<tr>
-					<td>葉昆建傳道 ：347-515-6177</td>
-				</tr>
-				<tr>
-					<td>林台英傳道 ：347-791-0105</td>
-				</tr>
-				<tr>
-					<td>蕭師母 ：347-510-7689</td>
-				</tr>
-				<tr>
-					<td>高曉宇 ：917-349-1711</td>
-				</tr>
-				<tr>
-					<td>John Shen ：718-207-2738</td>
-				</tr>
-				<tr>
-					<td>Amy Cheng ：917-678-3955</td>
-				</tr>
-				<tr>
-					<td>Mark Lin ：347-617-5592</td>
-				</tr>
-				<tr>
-					<td>褚簡妮 ：917-575-8759</td>
-				</tr>
-				<tr>
-					<td>談鷹 ：347-972-1851</td>
-				</tr>
-				<tr>
-					<td>黃亦華（福州語）：917-460-5642</td>
-				</tr>
-				<tr>
-					<td>慎廣蘭：718-380-7704</td>
-				</tr>
-				<tr>
-					<td>林倩（粵語1）：917-561-2526</td>
-				</tr>
-				<tr>
-					<td>James Tam（粵語2）：646-413-2729</td>
-				</tr>
-				<tr>
-					<td>陳燕（溫州語）：646-229-7720</td>
-				</tr>
-			</tbody>
-		</table>
 	</div>
 </section>
 
