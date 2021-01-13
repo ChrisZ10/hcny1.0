@@ -31,22 +31,35 @@ get_template_part('templates/home', 'navbar');
 			<div class="handle"></div>
 		</div>
 
-		<div class="frame">
-			<ul class="slidee">
-				<?php 				
-				// 2020 is leap year (function detecting leap year)
-				for ($day = 0; $day<=365; $day++) {
+		<div class = 'control'>
+			<a id="prev-date">
+				<span class="icon">
+					<i class="fas fa-chevron-left fa-2x"></i>
+				</span>				
+			</a>
+			
+			<div class="frame">
+				<ul class="slidee">
+					<?php 				
+					// 2020 is leap year (function detecting leap year)
+					for ($day = 0; $day<=365; $day++) {
 
-					generate_date_card(array(
-						'year' => '2020',
-						'day' => $day
-					));
+						generate_date_card(array(
+							'year' => '2020',
+							'day' => $day
+						));
 
-				}
-				?>
-			</ul>
+					}
+					?>
+				</ul>
+			</div>
+
+			<a id="next-date">
+				<span class="icon">
+					<i class="fas fa-chevron-right fa-2x"></i>
+				</span>				
+			</a>
 		</div>
-	
 	</div>
 
 </div>
