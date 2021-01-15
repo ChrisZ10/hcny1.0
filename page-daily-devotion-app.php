@@ -33,9 +33,10 @@ get_header();
 					<?php 				
 					// 2020 is leap year (function detecting leap year)
 					for ($day = 0; $day<=365; $day++) {
+						$year = date('Y');
 
 						generate_date_card(array(
-							'year' => '2020',
+							'year' => $year,
 							'day' => $day
 						));
 
