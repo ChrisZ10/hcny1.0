@@ -16,7 +16,7 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 6, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 #single-gallery .title {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 10, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
@@ -27,15 +27,15 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 14, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 #single-gallery .btn a {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   padding: 5px;
 }
 
 /* line 20, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 #single-gallery .btn a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /* line 28, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
@@ -188,13 +188,13 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 150, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 .single-archive-gallery .content h3 {
-  color: #496780;
+  color: #003049;
   margin-bottom: 10px;
 }
 
 /* line 155, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 .single-archive-gallery .content p {
-  color: #496780;
+  color: #003049;
   margin-bottom: 5px;
 }
 
@@ -205,21 +205,21 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 163, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 .single-archive-gallery .content .btn a {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   padding: 5px;
 }
 
 /* line 169, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 .single-archive-gallery .content .btn a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /* line 182, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/gallery.scss */
 .column.album .content .name {
-  color: #e0cfae;
-  background-color: #496780;
+  color: #eae2b7;
+  background-color: #003049;
   padding: 5px;
 }
 

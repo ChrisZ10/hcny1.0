@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"@import '../base/variables';\r\n\r\n#search {\r\n\t#search-bar {\r\n\t\t.control {\r\n\t\t\t.input {\r\n\t\t\t\tborder-radius: 0;\r\n\t\t\t}\r\n\t\t\t.button {\r\n\t\t\t\tborder-radius: 0;\r\n\t\t\t\tbackground-color: $orange;\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\t#search-results {\r\n\t\tmin-height: 650px;\r\n\t\tbackground-color: lightgray;\r\n\t}\r\n}",
-		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #496780;\r\n$white: #e0cfae;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
+		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #003049;\r\n$white: #eae2b7;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
 	],
 	"names": [],
 	"mappings": ";AAEA,AAGG,OAHI,CACN,WAAW,CACV,QAAQ,CACP,MAAM,CAAC;EACN,aAAa,EAAE,CAAC;CAChB;;;AALJ,AAMG,OANI,CACN,WAAW,CACV,QAAQ,CAIP,OAAO,CAAC;EACP,aAAa,EAAE,CAAC;EAChB,gBAAgB,ECOX,OAAO;CDNZ;;;AATJ,AAYC,OAZM,CAYN,eAAe,CAAC;EACf,UAAU,EAAE,KAAK;EACjB,gBAAgB,EAAE,SAAS;CAC3B"

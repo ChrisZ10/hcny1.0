@@ -29,12 +29,12 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 15, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-banner .subtitle {
-  color: #e0cfae;
+  color: #eae2b7;
 }
 
 /* line 21, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .subtitle {
-  color: #496780;
+  color: #003049;
   text-align: justify;
 }
 
@@ -47,12 +47,12 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 31, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .container .tabs li a {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 35, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .container .tabs li.is-active {
-  border-bottom: 4px solid #496780;
+  border-bottom: 4px solid #003049;
 }
 
 /* line 39, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
@@ -71,17 +71,17 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 47, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .container .container .card .card-header {
-  background-color: #496780;
+  background-color: #003049;
 }
 
 /* line 49, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .container .container .card .card-header p {
-  color: #e0cfae;
+  color: #eae2b7;
 }
 
 /* line 54, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #cell-group-text .container .container .card .card-content p, #cell-group-text .container .container .card .card-content a {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 57, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
@@ -91,26 +91,26 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 67, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #online-cell .subtitle {
-  color: #496780;
+  color: #003049;
   text-align: justify;
 }
 
 /* line 73, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #online-cell table thead th {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   line-height: 150%;
 }
 
 /* line 80, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #online-cell table tbody td {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 83, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-cell-group.scss */
 #online-cell table tbody td:hover {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
 }
 
 /*# sourceMappingURL=page-cell-group.css.map */

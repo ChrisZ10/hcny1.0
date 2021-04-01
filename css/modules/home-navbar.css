@@ -1,11 +1,11 @@
 /* line 3, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #home-navbar {
-  background-color: #496780;
+  background-color: #003049;
 }
 
 /* line 5, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #home-navbar a {
-  color: #e0cfae;
+  color: #eae2b7;
   padding-left: 5px;
 }
 
@@ -22,7 +22,7 @@
 
 /* line 16, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #home-navbar span.navbar-item {
-  color: #e0cfae;
+  color: #eae2b7;
   cursor: pointer;
 }
 
@@ -43,12 +43,12 @@
 
 /* line 31, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #home-navbar .navbar-menu.is-active {
-  background-color: #496780;
+  background-color: #003049;
 }
 
 /* line 34, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #home-navbar .navbar-item:hover {
-  background-color: #496780;
+  background-color: #003049;
 }
 
 /* line 37, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
@@ -69,8 +69,8 @@
 /* line 49, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */
 #weixin .card-content {
   text-align: center;
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
 }
 
 /* line 54, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/home-navbar.scss */

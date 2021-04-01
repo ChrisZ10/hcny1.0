@@ -1,24 +1,24 @@
 /* line 4, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form label {
   font-weight: normal;
-  color: #496780;
+  color: #003049;
 }
 
 /* line 9, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form h1 {
   margin-top: 30px;
-  color: #496780;
+  color: #003049;
 }
 
 /* line 14, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form h3 {
   margin-top: 30px;
-  color: #496780;
+  color: #003049;
 }
 
 /* line 19, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form .help {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 23, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
@@ -34,13 +34,13 @@
 
 /* line 31, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form option {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 35, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
 #ride-form button {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   border-radius: 0;
 }
 

@@ -1,6 +1,6 @@
 /* line 4, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 #archive-message h1 {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 9, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
@@ -23,13 +23,13 @@
 
 /* line 19, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 .single-archive-message .content h3 {
-  color: #496780;
+  color: #003049;
   margin-bottom: 10px;
 }
 
 /* line 23, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 .single-archive-message .content p {
-  color: #496780;
+  color: #003049;
   margin-bottom: 5px;
 }
 
@@ -40,15 +40,15 @@
 
 /* line 29, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 .single-archive-message .content .btn a {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   padding: 5px;
 }
 
 /* line 34, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 .single-archive-message .content .btn a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /* line 42, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
@@ -58,7 +58,7 @@
 
 /* line 44, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 #single-message h1, #single-message h3, #single-message p {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 47, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
@@ -91,15 +91,15 @@
 
 /* line 64, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 #single-message .btn a {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
   padding: 5px;
 }
 
 /* line 69, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 #single-message .btn a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /* line 77, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
@@ -115,7 +115,7 @@
 
 /* line 83, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */
 .single-home-message p a {
-  color: #496780;
+  color: #003049;
 }
 
 /* line 86, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/message.scss */

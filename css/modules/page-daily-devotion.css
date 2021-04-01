@@ -34,7 +34,7 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 20, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
 #date-slider .subtitle {
-  color: #496780;
+  color: #003049;
   text-align: justify;
 }
 
@@ -48,8 +48,8 @@ body h1, body h3, body p, body strong, body th, body td {
 /* line 28, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
 #date-slider .top.button {
   border-radius: 5px;
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
 }
 
 /* line 34, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
@@ -60,7 +60,7 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 38, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
 #date-slider .control #prev-date {
-  color: #496780;
+  color: #003049;
   position: absolute;
   top: 20%;
   left: -10%;
@@ -75,7 +75,7 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 50, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
 #date-slider .control #next-date {
-  color: #496780;
+  color: #003049;
   position: absolute;
   top: 20%;
   right: -10%;
@@ -120,7 +120,7 @@ body h1, body h3, body p, body strong, body th, body td {
   width: 100px;
   height: 100px;
   touch-action: pan-x;
-  color: #496780;
+  color: #003049;
 }
 
 @media (max-width: 767px) {
@@ -134,8 +134,8 @@ body h1, body h3, body p, body strong, body th, body td {
 
 /* line 95, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
 #date-slider .control .frame .slidee li.active {
-  background-color: #496780;
-  color: #e0cfae;
+  background-color: #003049;
+  color: #eae2b7;
 }
 
 /* line 104, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */
@@ -157,7 +157,7 @@ body h1, body h3, body p, body strong, body th, body td {
 #single-devotion {
   margin-top: 0;
   padding-top: 0;
-  color: #496780;
+  color: #003049;
 }
 
 /* line 124, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-daily-devotion.scss */

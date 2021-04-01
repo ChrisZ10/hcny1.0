@@ -29,16 +29,16 @@
 /* line 16, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/banner.scss */
 #home-banner .container .flex-item .buttons .field a {
   background: transparent;
-  color: #e0cfae;
-  border: 3px solid #e0cfae;
+  color: #eae2b7;
+  border: 3px solid #eae2b7;
   margin-right: 5px;
   border-radius: 0;
 }
 
 /* line 23, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/banner.scss */
 #home-banner .container .flex-item .buttons .field a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /* line 33, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/banner.scss */
@@ -72,8 +72,8 @@
 /* line 46, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/banner.scss */
 #carpool-banner .container .flex-item .buttons .field a {
   background: transparent;
-  color: #e0cfae;
-  border: 3px solid #e0cfae;
+  color: #eae2b7;
+  border: 3px solid #eae2b7;
   border-radius: 0;
   padding: 5px 10px 5px 10px !important;
   font-weight: bold;
@@ -86,8 +86,8 @@
 
 /* line 57, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/banner.scss */
 #carpool-banner .container .flex-item .buttons .field a:hover {
-  background-color: #e0cfae;
-  color: #496780;
+  background-color: #eae2b7;
+  color: #003049;
 }
 
 /*# sourceMappingURL=banner.css.map */

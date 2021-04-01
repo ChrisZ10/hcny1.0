@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"@import 'variables';\r\n\r\n.hr {\r\n\theight: 5px;\r\n\twidth: 200px;\r\n\tmargin-bottom: 30px;\r\n\tbackground-color: $orange;\r\n}",
-		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #496780;\r\n$white: #e0cfae;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
+		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #003049;\r\n$white: #eae2b7;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
 	],
 	"names": [],
 	"mappings": ";AAEA,AAAA,GAAG,CAAC;EACH,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,KAAK;EACZ,aAAa,EAAE,IAAI;EACnB,gBAAgB,ECWR,OAAO;CDVf"
