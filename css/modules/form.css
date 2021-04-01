@@ -1,1 +1,62 @@
-#ride-form label{font-weight:normal;color:#496780}#ride-form h1{margin-top:30px;color:#496780}#ride-form h3{margin-top:30px;color:#496780}#ride-form .help{color:#496780}#ride-form input{border-radius:0}#ride-form select{color:lightgray;border-radius:0}#ride-form option{color:#496780}#ride-form button{background-color:#496780;color:#e0cfae;border-radius:0}#ride-form .field.add{margin-top:30px}#ride-form .field.delete{margin-bottom:30px}#ride-form #form_control{margin-top:50px}
+/* line 4, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form label {
+  font-weight: normal;
+  color: #496780;
+}
+
+/* line 9, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form h1 {
+  margin-top: 30px;
+  color: #496780;
+}
+
+/* line 14, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form h3 {
+  margin-top: 30px;
+  color: #496780;
+}
+
+/* line 19, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form .help {
+  color: #496780;
+}
+
+/* line 23, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form input {
+  border-radius: 0;
+}
+
+/* line 26, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form select {
+  color: lightgray;
+  border-radius: 0;
+}
+
+/* line 31, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form option {
+  color: #496780;
+}
+
+/* line 35, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form button {
+  background-color: #496780;
+  color: #e0cfae;
+  border-radius: 0;
+}
+
+/* line 41, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form .field.add {
+  margin-top: 30px;
+}
+
+/* line 44, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form .field.delete {
+  margin-bottom: 30px;
+}
+
+/* line 48, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/form.scss */
+#ride-form #form_control {
+  margin-top: 50px;
+}
+
+/*# sourceMappingURL=form.css.map */

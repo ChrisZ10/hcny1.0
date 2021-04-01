@@ -1,1 +1,74 @@
-#offering-banner{background-image:url("../assets/images/offering.jpg");background-repeat:no-repeat;background-size:cover;background-position:center}#offering-banner .container{display:flex}#offering-banner .container img{margin:auto}#offering-banner .subtitle{color:#e0cfae}#offering-text .subtitle{color:#496780;text-align:justify}#offering-text .columns .column{min-height:300px;margin:10px;border:1px solid #496780}#offering-text .columns .column .subtitle{background-color:#496780;color:#e0cfae;padding-top:5px;padding-bottom:5px}#offering-text .columns .column p{color:#496780;padding:10px;text-align:justify}#offering-text .columns .column p strong{color:#496780}#offering-text .columns .column p a{color:#0d2d47;font-weight:bold}#offering-text .columns .column .image{padding:10px;margin-bottom:20px}#offering-text .columns .column .offering_btn:hover{background-color:#e0cfae}
+/* line 3, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-banner {
+  background-image: url("../assets/images/offering.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* line 8, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-banner .container {
+  display: flex;
+}
+
+/* line 10, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-banner .container img {
+  margin: auto;
+}
+
+/* line 14, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-banner .subtitle {
+  color: #e0cfae;
+}
+
+/* line 20, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .subtitle {
+  color: #496780;
+  text-align: justify;
+}
+
+/* line 25, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column {
+  min-height: 300px;
+  margin: 10px;
+  border: 1px solid #496780;
+}
+
+/* line 29, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column .subtitle {
+  background-color: #496780;
+  color: #e0cfae;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* line 35, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column p {
+  color: #496780;
+  padding: 10px;
+  text-align: justify;
+}
+
+/* line 39, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column p strong {
+  color: #496780;
+}
+
+/* line 42, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column p a {
+  color: #0d2d47;
+  font-weight: bold;
+}
+
+/* line 47, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column .image {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* line 51, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-offering.scss */
+#offering-text .columns .column .offering_btn:hover {
+  background-color: #e0cfae;
+}
+
+/*# sourceMappingURL=page-offering.css.map */

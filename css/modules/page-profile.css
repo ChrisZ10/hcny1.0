@@ -1,1 +1,54 @@
-#profile-banner{background-image:url("../assets/images/lamb.jpg");background-repeat:no-repeat;background-size:cover;background-position:center bottom}#profile-banner .container{display:flex}#profile-banner .container img{margin:auto}#profile-content .title{color:#496780}#profile-content .label{color:#496780}#profile-content .control{width:200px}#profile-content .control input{border-radius:0;color:#496780}#profile-content .control a{border:1px solid lightgray;border-radius:0;background-color:transparent;color:#496780}#profile-content .control a:hover{background-color:#496780;color:#e0cfae}
+/* line 3, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-banner {
+  background-image: url("../assets/images/lamb.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+/* line 8, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-banner .container {
+  display: flex;
+}
+
+/* line 10, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-banner .container img {
+  margin: auto;
+}
+
+/* line 21, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .title {
+  color: #496780;
+}
+
+/* line 24, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .label {
+  color: #496780;
+}
+
+/* line 27, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .control {
+  width: 200px;
+}
+
+/* line 29, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .control input {
+  border-radius: 0;
+  color: #496780;
+}
+
+/* line 33, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .control a {
+  border: 1px solid lightgray;
+  border-radius: 0;
+  background-color: transparent;
+  color: #496780;
+}
+
+/* line 39, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-profile.scss */
+#profile-content .control a:hover {
+  background-color: #496780;
+  color: #e0cfae;
+}
+
+/*# sourceMappingURL=page-profile.css.map */

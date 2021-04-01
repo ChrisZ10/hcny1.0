@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "library.css",
+	"sources": [
+		"../../scss/modules/library.scss"
+	],
+	"sourcesContent": [
+		"#library-system {\r\n\t.container {\r\n\t\tmin-height: 700px;\r\n\t\tdisplay: flex;\r\n\t\t.button-box {\r\n\t\t\theight: 200px;\r\n\t\t\tmargin: auto;\r\n\t\t}\r\n\t}\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AACC,eADc,CACd,UAAU,CAAC;EACV,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;CAKb;;;AARF,AAIE,eAJa,CACd,UAAU,CAGT,WAAW,CAAC;EACX,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,IAAI;CACZ"
+}

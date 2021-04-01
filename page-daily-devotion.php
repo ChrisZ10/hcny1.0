@@ -41,10 +41,10 @@ get_template_part('templates/home', 'navbar');
 			<div class="frame">
 				<ul class="slidee">
 					<?php 				
-					// 2020 is leap year (function detecting leap year)
 					$year = date('Y');
+					$days = date('L') == 0? 365 : 366;
 
-					for ($day = 0; $day<=365; $day++) {
+					for ($day = 0; $day <= $days; $day++) {
 
 						generate_date_card(array(
 							'year' => $year,

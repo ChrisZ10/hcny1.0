@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "variables.css",
+	"sources": [
+		"../../scss/base/variables.scss"
+	],
+	"sourcesContent": [
+		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #496780;\r\n$white: #e0cfae;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
+	],
+	"names": [],
+	"mappings": ""
+}
