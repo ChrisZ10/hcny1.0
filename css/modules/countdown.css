@@ -1,1 +1,11 @@
-#countdown{background-color:#e0cfae}#countdown p,#countdown span{color:#496780}
+/* line 3, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/countdown.scss */
+#countdown {
+  background-color: #eae2b7;
+}
+
+/* line 5, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/countdown.scss */
+#countdown p, #countdown span {
+  color: #003049;
+}
+
+/*# sourceMappingURL=countdown.css.map */

@@ -1,1 +1,12 @@
-body *{font-family:"Noto Sans TC",sans-serif;word-wrap:break-word}body h1,body h3,body p,body strong,body th,body td{cursor:default}
+/* line 44, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/base/baseline.scss */
+body * {
+  font-family: "Noto Sans TC", sans-serif;
+  word-wrap: break-word;
+}
+
+/* line 48, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/base/baseline.scss */
+body h1, body h3, body p, body strong, body th, body td {
+  cursor: default;
+}
+
+/*# sourceMappingURL=baseline.css.map */

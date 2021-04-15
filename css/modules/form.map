@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "form.css",
+	"sources": [
+		"../../scss/modules/form.scss",
+		"../../scss/base/variables.scss"
+	],
+	"sourcesContent": [
+		"@import '../base/variables';\r\n\r\n#ride-form {\r\n\tlabel {\r\n\t\tfont-weight: normal;\r\n\t\tcolor: $orange;\r\n\t}\r\n\r\n\th1 {\r\n\t\tmargin-top: 30px;\r\n\t\tcolor: $orange;\r\n\t}\r\n\r\n\th3 {\r\n\t\tmargin-top: 30px;\r\n\t\tcolor: $orange;\r\n\t}\r\n\r\n\t.help {\r\n\t\tcolor: $orange;\r\n\t}\r\n\r\n\tinput {\r\n\t\tborder-radius: 0;\r\n\t}\r\n\tselect {\r\n\t\tcolor: lightgray;\r\n\t\tborder-radius: 0;\r\n\t}\r\n\r\n\toption {\r\n\t\tcolor: $orange;\r\n\t}\r\n\r\n\tbutton {\r\n\t\tbackground-color: $orange;\r\n\t\tcolor: $white;\r\n\t\tborder-radius: 0;\r\n\t}\r\n\r\n\t.field.add {\r\n\t\tmargin-top: 30px;\r\n\t}\r\n\t.field.delete {\r\n\t\tmargin-bottom: 30px;\r\n\t}\r\n\r\n\t#form_control {\r\n\t\tmargin-top: 50px;\r\n\t}\r\n}",
+		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #003049;\r\n$white: #eae2b7;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
+	],
+	"names": [],
+	"mappings": ";AAEA,AACC,UADS,CACT,KAAK,CAAC;EACL,WAAW,EAAE,MAAM;EACnB,KAAK,ECYE,OAAO;CDXd;;;AAJF,AAMC,UANS,CAMT,EAAE,CAAC;EACF,UAAU,EAAE,IAAI;EAChB,KAAK,ECOE,OAAO;CDNd;;;AATF,AAWC,UAXS,CAWT,EAAE,CAAC;EACF,UAAU,EAAE,IAAI;EAChB,KAAK,ECEE,OAAO;CDDd;;;AAdF,AAgBC,UAhBS,CAgBT,KAAK,CAAC;EACL,KAAK,ECFE,OAAO;CDGd;;;AAlBF,AAoBC,UApBS,CAoBT,KAAK,CAAC;EACL,aAAa,EAAE,CAAC;CAChB;;;AAtBF,AAuBC,UAvBS,CAuBT,MAAM,CAAC;EACN,KAAK,EAAE,SAAS;EAChB,aAAa,EAAE,CAAC;CAChB;;;AA1BF,AA4BC,UA5BS,CA4BT,MAAM,CAAC;EACN,KAAK,ECdE,OAAO;CDed;;;AA9BF,AAgCC,UAhCS,CAgCT,MAAM,CAAC;EACN,gBAAgB,EClBT,OAAO;EDmBd,KAAK,EClBC,OAAO;EDmBb,aAAa,EAAE,CAAC;CAChB;;;AApCF,AAsCC,UAtCS,CAsCT,MAAM,AAAA,IAAI,CAAC;EACV,UAAU,EAAE,IAAI;CAChB;;;AAxCF,AAyCC,UAzCS,CAyCT,MAAM,AAAA,OAAO,CAAC;EACb,aAAa,EAAE,IAAI;CACnB;;;AA3CF,AA6CC,UA7CS,CA6CT,aAAa,CAAC;EACb,UAAU,EAAE,IAAI;CAChB"
+}

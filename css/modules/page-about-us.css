@@ -1,1 +1,59 @@
-body *{font-family:"Noto Sans TC",sans-serif;word-wrap:break-word}body h1,body h3,body p,body strong,body th,body td{cursor:default}#about-us-banner{background-image:url("../assets/images/vineyard.jpg");background-repeat:no-repeat;background-size:cover;background-position:center}#about-us-banner .container{display:flex}#about-us-banner .container img{margin:auto}#about-us-text .title{color:#496780}#about-us-text p{color:#0d2d47;margin-bottom:30px;text-align:justify}#about-us-text .subtitle,#about-us-text strong{color:#0d2d47}#about-us-text .columns{margin-bottom:30px}@media (max-width: 767px){#about-us-text .columns .column.is-one-fifth figure{width:60%}}
+/* line 44, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/base/baseline.scss */
+body * {
+  font-family: "Noto Sans TC", sans-serif;
+  word-wrap: break-word;
+}
+
+/* line 48, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/base/baseline.scss */
+body h1, body h3, body p, body strong, body th, body td {
+  cursor: default;
+}
+
+/* line 4, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-banner {
+  background-image: url("../assets/images/vineyard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* line 9, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-banner .container {
+  display: flex;
+}
+
+/* line 11, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-banner .container img {
+  margin: auto;
+}
+
+/* line 22, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-text .title {
+  color: #003049;
+}
+
+/* line 25, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-text p {
+  color: #0d2d47;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+/* line 30, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-text .subtitle, #about-us-text strong {
+  color: #0d2d47;
+}
+
+/* line 33, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+#about-us-text .columns {
+  margin-bottom: 30px;
+}
+
+@media (max-width: 767px) {
+  /* line 36, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/modules/page-about-us.scss */
+  #about-us-text .columns .column.is-one-fifth figure {
+    width: 60%;
+  }
+}
+
+/*# sourceMappingURL=page-about-us.css.map */

@@ -1,1 +1,9 @@
-.hr{height:5px;width:200px;margin-bottom:30px;background-color:#496780}
+/* line 3, C:/Users/chris/Local Sites/hcny/app/public/wp-content/themes/hcny/scss/base/utilities.scss */
+.hr {
+  height: 5px;
+  width: 200px;
+  margin-bottom: 30px;
+  background-color: #003049;
+}
+
+/*# sourceMappingURL=utilities.css.map */

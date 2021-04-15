@@ -47,11 +47,19 @@
 			<div class="outer column">
 				
 				<!-- sunday sermon video -->
+<<<<<<< HEAD
 				<img class="video-loader" data-youtube-id="8e7-4Ofs7sE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210411.jpg'; ?>">
 
 				<!-- description -->
 				<p class="subtitle">
 					士師記（五）：參孫 | 蕭慕道牧師 | 4月11日
+=======
+				<img class="video-loader" data-youtube-id="h6Qb2FS2ulk" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210328.jpg'; ?>">
+
+				<!-- description -->
+				<p class="subtitle">
+					士師記（四）：痛失愛女 | 蕭慕道牧師 | 3月28日
+>>>>>>> a6da75d99920b609eee6bea17ed0513cf9125d85
 				</p>
 				<p class="desc outer is-size-6-desktop is-size-7-touch">
 					<!-- description -->
@@ -70,7 +78,11 @@
 						<div class="inner column">
 							
 							<!-- previous sunday sermon video -->							
+<<<<<<< HEAD
 							<img class="video-loader" data-youtube-id="p16OyW6oM_4" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210404.jpg'; ?>">
+=======
+							<img class="video-loader" data-youtube-id="5fvKHfVdySI" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210321.jpg'; ?>">
+>>>>>>> a6da75d99920b609eee6bea17ed0513cf9125d85
 
 						</div>
 

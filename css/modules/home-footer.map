@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "home-footer.css",
+	"sources": [
+		"../../scss/modules/home-footer.scss",
+		"../../scss/base/variables.scss"
+	],
+	"sourcesContent": [
+		"@import '../base/variables';\r\n\r\n#footer {\r\n\tbackground-color: $darkorange;\r\n\tpadding: 0;\r\n\ta {\r\n\t\tcolor: $white;\r\n\t}\r\n\t.container {\r\n\t\tcolor: $white;\r\n\t\tpadding-top: 20px;\r\n\t\tpadding-bottom: 20px;\r\n\t}\r\n\t.container.is-fluid {\r\n\t\tmargin: 0;\r\n\t\tpadding-top: 20px;\r\n\t\tpadding-bottom: 20px;\r\n\t\tbackground-color: $orange;\r\n\t\ta {\r\n\t\t\tcolor: $white;\r\n\t\t}\r\n\t}\r\n}",
+		"$tablet-width: 768px;\r\n$desktop-width: 1024px;\r\n$widescreen-width: 1216px;\r\n$fullHD-width: 1408px;\r\n\r\n//group1\r\n//$orange: #DA9100;\r\n//$white: #FFEBD8;\r\n//$darkorange: #885A00;\r\n//$lightorange: #FC4B23;\r\n\r\n//group2\r\n// $orange: #112f37;\r\n// $white: #FFEBD8;\r\n// $darkorange: #79443d;\r\n\r\n//group3\r\n$orange: #003049;\r\n$white: #eae2b7;\r\n$darkorange: #0d2d47;\r\n$lightorange: #bcd8f0;\r\n$brown: #ab866c;\r\n\r\n$font-stack: 'Noto Sans TC', sans-serif;"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,OAAO,CAAC;EACP,gBAAgB,ECgBJ,OAAO;EDfnB,OAAO,EAAE,CAAC;CAkBV;;;AApBD,AAGC,OAHM,CAGN,CAAC,CAAC;EACD,KAAK,ECYC,OAAO;CDXb;;;AALF,AAMC,OANM,CAMN,UAAU,CAAC;EACV,KAAK,ECSC,OAAO;EDRb,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CACpB;;;AAVF,AAWC,OAXM,CAWN,UAAU,AAAA,SAAS,CAAC;EACnB,MAAM,EAAE,CAAC;EACT,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,gBAAgB,ECAT,OAAO;CDId;;;AAnBF,AAgBE,OAhBK,CAWN,UAAU,AAAA,SAAS,CAKlB,CAAC,CAAC;EACD,KAAK,ECDA,OAAO;CDEZ"
+}
