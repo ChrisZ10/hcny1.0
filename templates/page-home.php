@@ -47,11 +47,11 @@
 			<div class="outer column">
 				
 				<!-- sunday sermon video -->
-				<img class="video-loader" data-youtube-id="0YwMaw-0hUE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210110.jpg'; ?>">
+				<img class="video-loader" data-youtube-id="8e7-4Ofs7sE" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210411.jpg'; ?>">
 
 				<!-- description -->
 				<p class="subtitle">
-					衝破攔阻 逆流而上（二） | 蕭慕道牧師 | 1月10日
+					士師記（五）：參孫 | 蕭慕道牧師 | 4月11日
 				</p>
 				<p class="desc outer is-size-6-desktop is-size-7-touch">
 					<!-- description -->
@@ -70,7 +70,7 @@
 						<div class="inner column">
 							
 							<!-- previous sunday sermon video -->							
-							<img class="video-loader" data-youtube-id="dCkCETbrS0w" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210103.jpg'; ?>">
+							<img class="video-loader" data-youtube-id="p16OyW6oM_4" src="<?php echo get_template_directory_uri() . '/assets/images/sermon_20210404.jpg'; ?>">
 
 						</div>
 
@@ -78,7 +78,7 @@
 						<div class="inner column description">
 							
 							<!-- highlight video -->							
-							<img class="video-loader" data-youtube-id="dvFzIWW3GuI" src="<?php echo get_template_directory_uri() . '/assets/images/biblecopy.jpg'; ?>">
+							<img class="video-loader" data-youtube-id="ymOYA4nYD7k" src="<?php echo get_template_directory_uri() . '/assets/images/easter-youtube.jpg'; ?>">
 							
 						</div>
 
@@ -103,8 +103,8 @@
 						<div class="inner column description">
 							
 							<!-- highlight series 2 -->
-							<a href="https://www.youtube.com/watch?v=6SXQPh8uXvY&list=PL3BMsMGanxj2pQNp9nwPgmddratX6eGuF" target="_blank">
-								<img src="<?php echo get_template_directory_uri() . '/assets/images/psalm_review.jpg'; ?>">
+							<a href="https://youtube.com/playlist?list=PL3BMsMGanxj2VuX2VTfFQsCIFyQNbF1HL" target="_blank">
+								<img src="<?php echo get_template_directory_uri() . '/assets/images/romans-youtube.jpg'; ?>">
 							</a>
 
 						</div>

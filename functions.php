@@ -320,6 +320,9 @@ add_filter( 'acf_photo_gallery_image_fields', 'my_extra_gallery_fields', 10, 3 )
 function find_post() {
 	
 	$index = $_GET['index'];
+	if (date('L') == 0) {
+        $index = $index > 58? $index + 1 : $index;
+    }
 
 	$results = array();
 
