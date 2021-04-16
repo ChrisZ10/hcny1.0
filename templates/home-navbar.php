@@ -37,7 +37,6 @@
 			<a class="navbar-item" href="<?php echo site_url('/about-us'); ?>">教會介紹</a>
 			<a class="navbar-item" href="<?php echo site_url('/daily-devotion'); ?>">每日靈修</a>
 			<a class="navbar-item" href="<?php echo site_url('/cell-group'); ?>">細胞小組</a>
-			<a class="navbar-item" href="<?php echo site_url('/audible'); ?>">有聲讀物</a>
 			<a class="navbar-item" href="<?php echo get_post_type_archive_link('event'); ?>">近期活動</a>
 			<a class="navbar-item" href="<?php echo get_post_type_archive_link('message'); ?>">家事報告</a>
 			<a class="navbar-item" href="<?php echo site_url('/offering'); ?>">奉獻</a>
